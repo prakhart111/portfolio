@@ -1,0 +1,397 @@
+@keyframes animation-254 {
+  from {
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    z-index: 1;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    left: 0%;
+    z-index: 2;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-254 {
+  animation: animation-254 1s ease-out 0s normal forwards;
+}
+@keyframes animation-null11112 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 29.17%;
+    height: 10.19%;
+    top: 11.67%;
+    left: 51.04%;
+    opacity: 0.1;
+    z-index: 3;
+    transform: rotate(0deg);
+    overflow: hidden;
+  }
+}
+.animationClass-null11112 {
+  animation: animation-null11112 1s ease-out 0s normal forwards;
+}
+@keyframes animationBg-11112 {
+  from {
+    background-image: var(--image-0);
+    opacity: 1;
+  }
+  to {
+    background-image: var(--image-0);
+    opacity: 1;
+  }
+}
+.bgClass-11112 {
+  animation: animationBg-11112 1s ease-out 0s normal forwards;
+}
+@keyframes animation-11133 {
+  from {
+    width: 3.85%;
+    height: 4.17%;
+    top: 21.57%;
+    left: 48.07%;
+    z-index: 3;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 3.85%;
+    height: 4.17%;
+    top: 9.63%;
+    left: 19.79%;
+    z-index: 5;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-11133 {
+  animation: animation-11133 1s ease-out 0s normal forwards;
+}
+@keyframes animation-11133-11133-0 {
+  from {
+    font-size: calc(35 * var(--ratio));
+    font-family: Outfit;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: none;
+
+    line-height: calc(36 * var(--ratio));
+    color: #ffffffff;
+  }
+  to {
+    font-size: calc(35 * var(--ratio));
+    font-family: Outfit;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: none;
+
+    line-height: calc(36 * var(--ratio));
+    color: #ffffffff;
+  }
+}
+
+.animationClass-11133-11133-0 {
+  animation: animation-11133-11133-0 1s ease-out 0s normal forwards;
+}
+@keyframes animation-11135 {
+  from {
+    width: 1.46%;
+    height: 2.31%;
+    top: 26.85%;
+    left: 49.27%;
+    z-index: 4;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 1.46%;
+    height: 2.31%;
+    top: 11.11%;
+    left: 24.38%;
+    z-index: 6;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-11135 {
+  animation: animation-11135 1s ease-out 0s normal forwards;
+}
+@keyframes animation-11135-11135-0 {
+  from {
+    font-size: calc(19 * var(--ratio));
+    font-family: Outfit;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: none;
+
+    line-height: calc(20 * var(--ratio));
+    color: #ffffffff;
+  }
+  to {
+    font-size: calc(19 * var(--ratio));
+    font-family: Outfit;
+    font-weight: 600;
+
+    text-decoration: none;
+    text-transform: none;
+
+    line-height: calc(20 * var(--ratio));
+    color: #ffffffff;
+  }
+}
+
+.animationClass-11135-11135-0 {
+  animation: animation-11135-11135-0 1s ease-out 0s normal forwards;
+}
+@keyframes animation-11134 {
+  from {
+    width: 10.68%;
+    height: 2.31%;
+    top: 80.56%;
+    left: 44.64%;
+    opacity: 1;
+    z-index: 5;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+  to {
+    opacity: 0;
+    z-index: -10;
+  }
+}
+.animationClass-11134 {
+  animation: animation-11134 1s ease-out 0s normal forwards;
+}
+@keyframes animation-1183 {
+  from {
+    width: 92.81%;
+    height: 5.2%;
+    z-index: 0;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 92.81%;
+    height: 5.2%;
+    z-index: 1;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-1183 {
+  animation: animation-1183 1s ease-out 0s normal forwards;
+}
+@keyframes animation-1188 {
+  from {
+    width: 3.09%;
+    height: 0%;
+    transform: rotate(90deg);
+  }
+  to {
+    width: 3.09%;
+    height: 0%;
+    transform: rotate(90deg);
+  }
+}
+.animationClass-1188 {
+  animation: animation-1188 1s ease-out 0s normal forwards;
+}
+@keyframes animation-1185 {
+  from {
+    width: 5.39%;
+    height: 37.37%;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 5.39%;
+    height: 37.37%;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-1185 {
+  animation: animation-1185 1s ease-out 0s normal forwards;
+}
+@keyframes animation-1185-1185-0 {
+  from {
+    font-size: calc(15 * var(--ratio));
+    font-family: Fira Code;
+    font-weight: 450;
+
+    text-decoration: none;
+    text-transform: none;
+
+    line-height: calc(16 * var(--ratio));
+    color: #607b96ff;
+  }
+  to {
+    font-size: calc(15 * var(--ratio));
+    font-family: Fira Code;
+    font-weight: 450;
+
+    text-decoration: none;
+    text-transform: none;
+
+    line-height: calc(16 * var(--ratio));
+    color: #607b96ff;
+  }
+}
+
+.animationClass-1185-1185-0 {
+  animation: animation-1185-1185-0 1s ease-out 0s normal forwards;
+}
+@keyframes animation-1186 {
+  from {
+    width: 100%;
+    height: 1.78%;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 100%;
+    height: 1.78%;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-1186 {
+  animation: animation-1186 1s ease-out 0s normal forwards;
+}
+/* @keyframes animationBg-11108 {
+  from {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABvYAAAACCAYAAACDpOuEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzSURBVHgB7cBBDQAgDASwIyADC0ggWEP6bOzRjn3uCwAAAAAAANDamskPAAAAAAAA0FoB+fgBThoQlaQAAAAASUVORK5CYII=);
+    opacity: 1;
+  }
+  to {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABvYAAAACCAYAAACDpOuEAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAzSURBVHgB7cBBDQAgDASwIyADC0ggWEP6bOzRjn3uCwAAAAAAANDamskPAAAAAAAA0FoB+fgBThoQlaQAAAAASUVORK5CYII=);
+  }
+}
+.bgClass-11108 {
+  animation: animationBg-11108 1s ease-out 0s normal forwards;
+} */
+@keyframes animation-1187 {
+  from {
+    width: 0.06%;
+    height: 98.22%;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 0.06%;
+    height: 98.22%;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-1187 {
+  animation: animation-1187 1s ease-out 0s normal forwards;
+}
+@keyframes animationBg-11109 {
+  from {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAA4CAYAAADXVynvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAoSURBVHgB7cZRDQAABAVA7OWQQATdZNEUmxTmvo7VPKgJrc/hQICcFHKDAiKjt8vXAAAAAElFTkSuQmCC);
+    opacity: 1;
+  }
+  to {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAA4CAYAAADXVynvAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAoSURBVHgB7cZRDQAABAVA7OWQQATdZNEUmxTmvo7VPKgJrc/hQICcFHKDAiKjt8vXAAAAAElFTkSuQmCC);
+  }
+}
+.bgClass-11109 {
+  animation: animationBg-11109 1s ease-out 0s normal forwards;
+}
+@keyframes animation-null11101 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 13.14%;
+    height: 4.81%;
+    top: 66.3%;
+    left: 43.44%;
+    opacity: 1;
+    z-index: 12;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-null11101 {
+  animation: animation-null11101 1s ease-out 0s normal forwards;
+}
+@keyframes animation-null11102 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-null11102 {
+  animation: animation-null11102 1s ease-out 0s normal forwards;
+}
+@keyframes animation-null11103 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 99.86%;
+    height: 50.01%;
+    top: 0%;
+    left: 0.14%;
+    opacity: 1;
+    z-index: 0;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClass-null11103 {
+  animation: animation-null11103 1s ease-out 0s normal forwards;
+}
+@keyframes animation-null11104 {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 38.04%;
+    height: 50.01%;
+    top: 49.99%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 0px;
+  }
+}
+.animationClass-null11104 {
+  animation: animation-null11104 1s ease-out 0s normal forwards;
+}
+@keyframes animation-275 {
+  from {
+    width: 92.81%;
+    height: 4.61%;
+    top: 95.37%;
+    left: 3.59%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+  }
+  to {
+    width: 92.81%;
+    height: 4.61%;
+    top: 95.37%;
+    left: 3.59%;
+    opacity: 1;
+    z-index: 2;
+    transform: rotate(0deg);
+  }
+}
+.animationClass-275 {
+  animation: animation-275 1s ease-out 0s normal forwards;
+}
