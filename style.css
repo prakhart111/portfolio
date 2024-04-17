@@ -280,7 +280,7 @@ body {
 }
 .frame-41-0-71340 {
   width: 13.14%;
-  height: 4.81%;
+  height: 7.81%;
   top: 66.3%;
   left: 43.44%;
   opacity: 0;
@@ -330,6 +330,17 @@ body {
   text-align: left;
   line-height: 0px;
 }
+.bd {
+  width: 98.04%;
+  height: 50.01%;
+  top: 100%;
+  left: 0%;
+  opacity: 0;
+  z-index: -10;
+  transform: rotate(0deg);
+  text-align: left;
+  line-height: 5px;
+}
 .devops-1-584-0 {
   font-size: calc(19 * var(--ratio));
   font-family: Fira Code;
@@ -339,6 +350,17 @@ body {
   text-transform: none;
 
   line-height: calc(20 * var(--ratio));
+  color: #4d5bceff;
+}
+.bd-0 {
+  font-size: calc(19 * var(--ratio));
+  font-family: Fira Code;
+  font-weight: 450;
+
+  text-decoration: none;
+  text-transform: none;
+
+  line-height: calc(22 * var(--ratio));
   color: #4d5bceff;
 }
 

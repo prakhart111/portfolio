@@ -372,6 +372,26 @@
 .animationClass-null11104 {
   animation: animation-null11104 1s ease-out 0s normal forwards;
 }
+@keyframes animation-bd {
+  from {
+    opacity: 0;
+    z-index: -10;
+  }
+  to {
+    width: 98.04%;
+    height: 50.01%;
+    top: 100%;
+    left: 0%;
+    opacity: 1;
+    z-index: 1;
+    transform: rotate(0deg);
+    text-align: left;
+    line-height: 5px;
+  }
+}
+.animationClass-bd {
+  animation: animation-bd 1s ease-out 0s normal forwards;
+}
 @keyframes animation-275 {
   from {
     width: 92.81%;

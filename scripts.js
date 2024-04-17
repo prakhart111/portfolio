@@ -56,6 +56,7 @@ function runAnimations() {
     document
       .querySelector("#id-11104")
       .classList.add("animationClass-null11104");
+    document.querySelector("#id-bd").classList.add("animationClass-bd");
     document.querySelector("#id-275").classList.add("animationClass-275");
     // document
     //   .querySelector("#id-1199")
